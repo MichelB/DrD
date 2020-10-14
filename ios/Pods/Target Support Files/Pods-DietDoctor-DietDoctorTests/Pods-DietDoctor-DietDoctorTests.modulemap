@@ -1,0 +1,6 @@
+module Pods_DietDoctor_DietDoctorTests {
+  umbrella header "Pods-DietDoctor-DietDoctorTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
