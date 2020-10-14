@@ -2,9 +2,9 @@ source "https://rubygems.org"
 
 gem "fastlane"
 
-lane :tests do
-    run_tests(scheme: "DietDoctor")
-end
+# lane :tests do
+#     run_tests(scheme: "DietDoctor")
+# end
 
 
 #   lane :tests do
